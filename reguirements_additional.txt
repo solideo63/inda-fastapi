@@ -1,15 +1,17 @@
-# LangChain Core
-langchain==0.1.6
-langchain-community==0.0.19
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
 
-# LangChain Integrations
-langchain-groq==0.0.1
-langchain-google-genai==0.0.6
-langchain-qdrant==0.1.0
-langchain-huggingface==0.0.1
+qdrant-client
+sentence-transformers
 
-# Google AI
-google-generativeai==0.3.2
+langchain
+langchain-community
+langchain-groq
+langchain-google-genai
+langchain-qdrant
+langchain-huggingface
 
-# Groq
-groq==0.4.1
+google-generativeai
+groq
