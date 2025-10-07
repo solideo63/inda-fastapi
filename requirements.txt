@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+
+qdrant-client
+sentence-transformers
+
+langchain
+langchain-community
+langchain-groq
+langchain-google-genai
+langchain-qdrant
+langchain-huggingface
+
+google-generativeai
+groq
